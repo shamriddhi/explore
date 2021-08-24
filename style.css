@@ -1,0 +1,18 @@
+div {
+    text-align: center;
+}
+
+body {
+    background-image: url("front page 3.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 730px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: black;
+    margin-top: 2000px;
+}
